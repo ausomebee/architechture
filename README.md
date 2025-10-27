@@ -1,0 +1,2 @@
+# architechture
+Noosphere Architectural Diagrams
